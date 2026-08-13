@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.0.13 (2026-08-13)
+
+### Fixes
+
+* fix: Update nerdd dependencies ([`64b041a`](https://github.com/molinfo-vienna/skin-doctor/commit/64b041a1978f2d1b31d2cf0b276908cda7501290))
+
+### Unknown
+
+* Merge pull request #25 from shirte/main
+
+Update nerdd dependencies ([`f515a3e`](https://github.com/molinfo-vienna/skin-doctor/commit/f515a3efb860db33dcfd10bd1cf8449d1a6557ae))
+
+
 ## v0.0.12 (2026-01-29)
 
 ### Fixes
